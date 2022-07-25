@@ -1,0 +1,6 @@
+strings:
+  inputs:
+    - XcodeBuildToolPluginDemo/Resources/Localization/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: ${DERIVED_SOURCES_DIR}/Strings+Generated.swift
